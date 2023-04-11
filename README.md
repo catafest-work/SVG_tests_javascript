@@ -8,3 +8,4 @@ npm install
 ### all examples 
 __index.js__ - all examples
 __index_001.js__ - create a SVG source code , add to a HTML source code and show this in the browser window 
+![index_001 example](index_001.png)
