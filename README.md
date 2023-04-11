@@ -14,4 +14,5 @@ __index_001.js__ - create a SVG source code , add to a HTML source code and show
 ![index_001 example](index_001.png)
 
 __index_002.js__ - test file for testing inquirer 
+
 __index_003.js__ - test file for testing inquirer 
