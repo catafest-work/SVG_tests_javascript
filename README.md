@@ -2,6 +2,8 @@
 
 ### first step to install nodejs packages or to install dependencies
 npm init 
+npm install inquirer
+npm install child_process
 npm install xmlserializer jsdom d3 fs open
 
 npm install
